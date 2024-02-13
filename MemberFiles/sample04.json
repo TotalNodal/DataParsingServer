@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "John Doe",
+    "Email": "john@gmail.com",
+    "Age": 25,
+    "JoiningDate": "2024-02-13T13:39:42.6744279+01:00",
+    "IsGoldMember": false
+  },
+  {
+    "Name": "Bob Smith",
+    "Email": "bob@gmail.com",
+    "Age": 30,
+    "JoiningDate": "2024-02-13T13:39:42.6744393+01:00",
+    "IsGoldMember": true
+  },
+  {
+    "Name": "Steve",
+    "Email": "Steve@gmail.com",
+    "Age": 28,
+    "JoiningDate": "2024-02-13T13:39:42.6744402+01:00",
+    "IsGoldMember": true
+  },
+  {
+    "Name": "Andy",
+    "Email": "Andy@gmail.com",
+    "Age": 45,
+    "JoiningDate": "2024-02-13T13:39:42.6744407+01:00",
+    "IsGoldMember": false
+  }
+]

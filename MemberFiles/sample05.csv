@@ -1,0 +1,5 @@
+Name,Email,Age,JoiningDate,IsGoldMember
+John Doe,john@gmail.com,25,02/13/2024 13:39:42,False
+Bob Smith,bob@gmail.com,30,02/13/2024 13:39:42,True
+Steve,Steve@gmail.com,28,02/13/2024 13:39:42,True
+Andy,Andy@gmail.com,45,02/13/2024 13:39:42,False

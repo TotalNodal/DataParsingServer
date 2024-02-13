@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Member xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>John Doe</Name>
+  <Email>John@gmail.com</Email>
+  <Age>25</Age>
+  <JoiningDate>2024-02-13T13:39:41.9668939+01:00</JoiningDate>
+  <IsGoldMember>false</IsGoldMember>
+</Member>
